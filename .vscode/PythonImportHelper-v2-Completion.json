@@ -1,0 +1,47 @@
+[
+    {
+        "label": "numpy",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "numpy",
+        "description": "numpy",
+        "detail": "numpy",
+        "documentation": {}
+    },
+    {
+        "label": "sum",
+        "kind": 5,
+        "importPath": "Python.add_two_numbers",
+        "description": "Python.add_two_numbers",
+        "peekOfCode": "sum = a + b\nprint(\"Sum : \", sum)",
+        "detail": "Python.add_two_numbers",
+        "documentation": {}
+    },
+    {
+        "label": "name",
+        "kind": 5,
+        "importPath": "Python.index",
+        "description": "Python.index",
+        "peekOfCode": "name = input(\"Enter your name : \")\nprint(name)\narray = [1, 2, \"skfll;f\", 4]\nfor i in array:\n    print(i)",
+        "detail": "Python.index",
+        "documentation": {}
+    },
+    {
+        "label": "array",
+        "kind": 5,
+        "importPath": "Python.index",
+        "description": "Python.index",
+        "peekOfCode": "array = [1, 2, \"skfll;f\", 4]\nfor i in array:\n    print(i)",
+        "detail": "Python.index",
+        "documentation": {}
+    },
+    {
+        "label": "is_odd_or_even",
+        "kind": 2,
+        "importPath": "Python.is_odd_or_even",
+        "description": "Python.is_odd_or_even",
+        "peekOfCode": "def is_odd_or_even(num):\n    if(num % 2 == 0):\n        return \"Even\"\n    return \"Odd\"\nprint(is_odd_or_even(12 ))",
+        "detail": "Python.is_odd_or_even",
+        "documentation": {}
+    }
+]
