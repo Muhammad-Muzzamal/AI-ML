@@ -1,11 +1,56 @@
 [
     {
+        "label": "streamlit",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "streamlit",
+        "description": "streamlit",
+        "detail": "streamlit",
+        "documentation": {}
+    },
+    {
+        "label": "pickle",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "pickle",
+        "description": "pickle",
+        "detail": "pickle",
+        "documentation": {}
+    },
+    {
         "label": "numpy",
         "kind": 6,
         "isExtraImport": true,
         "importPath": "numpy",
         "description": "numpy",
         "detail": "numpy",
+        "documentation": {}
+    },
+    {
+        "label": "movies_list",
+        "kind": 5,
+        "importPath": "ML Projects.Movie Reccomendation System.project.app",
+        "description": "ML Projects.Movie Reccomendation System.project.app",
+        "peekOfCode": "movies_list = pickle.load(open(\"movies.pkl\", \"rb\"))\nmovies_list = movies_list[\"title\"].values\nst.title(\"Movie Recommender System\")\nselected_movies_name = st.selectbox(\n    \"How would you like to be contacted?\",\n    movies_list\n)\nif st.button(\"Recommend\"):\n    recommend(selected_movies_name)\n    st.write(selected_movies_name)",
+        "detail": "ML Projects.Movie Reccomendation System.project.app",
+        "documentation": {}
+    },
+    {
+        "label": "movies_list",
+        "kind": 5,
+        "importPath": "ML Projects.Movie Reccomendation System.project.app",
+        "description": "ML Projects.Movie Reccomendation System.project.app",
+        "peekOfCode": "movies_list = movies_list[\"title\"].values\nst.title(\"Movie Recommender System\")\nselected_movies_name = st.selectbox(\n    \"How would you like to be contacted?\",\n    movies_list\n)\nif st.button(\"Recommend\"):\n    recommend(selected_movies_name)\n    st.write(selected_movies_name)",
+        "detail": "ML Projects.Movie Reccomendation System.project.app",
+        "documentation": {}
+    },
+    {
+        "label": "selected_movies_name",
+        "kind": 5,
+        "importPath": "ML Projects.Movie Reccomendation System.project.app",
+        "description": "ML Projects.Movie Reccomendation System.project.app",
+        "peekOfCode": "selected_movies_name = st.selectbox(\n    \"How would you like to be contacted?\",\n    movies_list\n)\nif st.button(\"Recommend\"):\n    recommend(selected_movies_name)\n    st.write(selected_movies_name)",
+        "detail": "ML Projects.Movie Reccomendation System.project.app",
         "documentation": {}
     },
     {
