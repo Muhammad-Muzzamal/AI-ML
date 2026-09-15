@@ -1,0 +1,21 @@
+student_id,first_name,last_name,gender,age,grade_level,subject,test_score,attendance_percentage,study_hours_per_week,extracurricular,city
+1001,Ali,Khan,M,15,9,Math,78,92,6,Cricket,Lahore
+1002,Sara,Ahmed,F,16,10,Science,85,95,8,Debate Club,Karachi
+1003,Bilal,Hussain,M,14,8,English,66,80,4,None,Islamabad
+1004,Ayesha,Raza,F,15,9,Math,91,98,10,Chess Club,Lahore
+1005,Usman,Malik,M,17,11,Physics,73,85,5,Football,Faisalabad
+1006,Fatima,Iqbal,F,16,10,Chemistry,88,90,7,Art Club,Multan
+1007,Hamza,Sheikh,M,14,8,Science,59,70,3,None,Lahore
+1008,Zainab,Tariq,F,17,11,Biology,94,97,9,Science Club,Karachi
+1009,Omar,Farooq,M,15,9,English,70,88,4,Cricket,Peshawar
+1010,Mehak,Younas,F,14,8,Math,82,93,6,Dance,Lahore
+1011,Saad,Chaudhry,M,16,10,Physics,64,75,3,None,Rawalpindi
+1012,Hira,Nawaz,F,15,9,Chemistry,89,96,8,Debate Club,Karachi
+1013,Talha,Aslam,M,17,11,Science,77,84,5,Football,Sialkot
+1014,Nida,Baig,F,16,10,Biology,92,99,9,Science Club,Lahore
+1015,Waleed,Siddiqui,M,14,8,English,55,68,2,None,Karachi
+1016,Amna,Qureshi,F,15,9,Math,68,82,4,Art Club,Multan
+1017,Faisal,Anwar,M,17,11,Physics,80,91,7,Chess Club,Lahore
+1018,Rabia,Hameed,F,16,10,Chemistry,73,86,6,Dance,Islamabad
+1019,Danish,Riaz,M,15,9,Science,86,94,8,Cricket,Faisalabad
+1020,Sana,Yousaf,F,14,8,English,61,77,3,None,Lahore
