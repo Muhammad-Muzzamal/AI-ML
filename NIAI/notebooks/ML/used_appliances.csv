@@ -1,0 +1,501 @@
+appliance_type,brand,condition,city,has_warranty,age_years,price_kwd
+Air Conditioner,Panasonic,Fair,Fahaheel,0,6,141.67
+Microwave,Orient,Fair,Fahaheel,1,5,41.01
+Dishwasher,LG,Good,Ahmadi,0,4,145.7
+Dishwasher,Dawlance,Poor,Riqqa,0,9,66.31
+Air Conditioner,Dawlance,Good,Salmiya,0,3,165.64
+Microwave,Toshiba,Fair,Mangaf,0,8,25.89
+Air Conditioner,Whirlpool,Excellent,Sabah Al Salem,0,1,199.19
+Air Conditioner,Panasonic,Excellent,Salmiya,1,3,223.82
+Refrigerator,Orient,Excellent,Ahmadi,0,3,213.75
+Air Conditioner,Samsung,Excellent,Jahra,0,1,226.05
+Dishwasher,Orient,Good,Fintas,0,8,80.25
+Washing Machine,Toshiba,Good,Kuwait City,0,7,121.89
+Microwave,Haier,Good,Salmiya,1,4,69.69
+Air Conditioner,Toshiba,Excellent,Fintas,0,6,181.78
+Dishwasher,Haier,Good,Ahmadi,1,0,154.61
+Microwave,Samsung,Good,Mangaf,1,6,75.35
+Microwave,Samsung,Good,Mahboula,0,2,88.7
+Air Conditioner,Panasonic,Good,Jahra,0,3,179.61
+Dishwasher,Orient,Good,Salmiya,0,1,117.26
+Dishwasher,Whirlpool,Good,Fintas,0,9,98.14
+Air Conditioner,Samsung,Fair,Kuwait City,0,8,149.37
+Microwave,Samsung,Good,Kuwait City,0,7,60.09
+Microwave,Whirlpool,Fair,Fahaheel,1,0,81.88
+Air Conditioner,Whirlpool,Good,Salmiya,0,0,194.78
+Washing Machine,Haier,Good,Hawally,0,6,127.82
+Microwave,Whirlpool,Fair,Fintas,0,5,37.93
+Air Conditioner,Toshiba,Excellent,Riqqa,0,5,194.22
+Microwave,Toshiba,Poor,Kuwait City,0,5,16.79
+Dishwasher,Haier,Good,Riqqa,0,9,73.59
+Air Conditioner,Samsung,Good,Mangaf,1,0,222.55
+Microwave,Dawlance,Good,Hawally,1,9,42.51
+Refrigerator,Orient,Good,Fintas,0,0,205.15
+Air Conditioner,Panasonic,Excellent,Riqqa,0,8,177.4
+Microwave,Dawlance,Excellent,Fahaheel,1,3,80.06
+Microwave,Samsung,Fair,Ahmadi,0,2,77.54
+Washing Machine,Panasonic,Fair,Hawally,0,2,141.68
+Dishwasher,Samsung,Fair,Farwaniya,0,4,117.3
+Microwave,Samsung,Fair,Fintas,0,5,46.1
+Dishwasher,Haier,Excellent,Riqqa,0,4,152.88
+Washing Machine,Panasonic,Fair,Salmiya,0,0,155.75
+Washing Machine,Dawlance,Excellent,Jahra,1,8,135.98
+Dishwasher,Toshiba,Excellent,Kuwait City,0,4,141.73
+Washing Machine,Orient,Good,Hawally,0,5,130.04
+Refrigerator,Orient,Good,Mangaf,0,9,175.1
+Refrigerator,LG,Good,Kuwait City,0,5,196.98
+Refrigerator,Haier,Fair,Fahaheel,1,9,155.5
+Washing Machine,Dawlance,Excellent,Kuwait City,0,2,151.78
+Refrigerator,Orient,Good,Ahmadi,0,9,148.99
+Dishwasher,Whirlpool,Good,Ahmadi,0,9,87.22
+Air Conditioner,Panasonic,Good,Jahra,0,4,184.71
+Air Conditioner,Whirlpool,Poor,Farwaniya,0,2,163.91
+Dishwasher,LG,Good,Salmiya,1,2,164.63
+Air Conditioner,LG,Poor,Jahra,0,6,156.25
+Washing Machine,LG,Excellent,Hawally,0,5,157.58
+Washing Machine,Orient,Excellent,Kuwait City,1,6,139.7
+Dishwasher,Toshiba,Poor,Mahboula,0,4,109.39
+Washing Machine,Panasonic,Fair,Jahra,0,3,142.59
+Air Conditioner,Samsung,Good,Jahra,0,9,160.8
+Dishwasher,Dawlance,Poor,Mahboula,0,9,79.5
+Dishwasher,Dawlance,Good,Mangaf,1,3,132.67
+Air Conditioner,LG,Good,Kuwait City,0,2,199.57
+Washing Machine,Samsung,Good,Riqqa,0,1,183.09
+Dishwasher,Haier,Good,Mangaf,0,7,110.44
+Refrigerator,Haier,Fair,Farwaniya,0,1,191.15
+Dishwasher,Haier,Excellent,Farwaniya,0,8,89.27
+Microwave,Samsung,Good,Farwaniya,0,6,75.12
+Dishwasher,Dawlance,Good,Mangaf,1,8,107.06
+Air Conditioner,Orient,Good,Riqqa,0,3,148.97
+Air Conditioner,Panasonic,Excellent,Fintas,0,3,212.3
+Dishwasher,Panasonic,Fair,Sabah Al Salem,0,4,119.52
+Air Conditioner,Panasonic,Excellent,Sabah Al Salem,0,4,185.41
+Refrigerator,Panasonic,Good,Riqqa,1,8,193.93
+Refrigerator,LG,Good,Ahmadi,0,7,192.23
+Dishwasher,Whirlpool,Excellent,Kuwait City,1,0,173.86
+Washing Machine,Panasonic,Excellent,Ahmadi,1,2,187.49
+Microwave,LG,Excellent,Mangaf,0,1,118.8
+Air Conditioner,Whirlpool,Poor,Fintas,1,8,135.72
+Air Conditioner,Whirlpool,Good,Fintas,0,7,162.07
+Washing Machine,Whirlpool,Good,Mahboula,0,4,139.66
+Microwave,Dawlance,Poor,Sabah Al Salem,0,0,50.28
+Dishwasher,Whirlpool,Good,Mangaf,0,9,108.52
+Refrigerator,Dawlance,Good,Fahaheel,0,1,205.53
+Air Conditioner,Dawlance,Good,Farwaniya,1,5,183.82
+Dishwasher,Panasonic,Excellent,Ahmadi,1,4,141.06
+Washing Machine,LG,Poor,Hawally,0,4,123.41
+Washing Machine,LG,Excellent,Kuwait City,0,9,136.74
+Washing Machine,Whirlpool,Excellent,Kuwait City,1,1,188.74
+Dishwasher,Whirlpool,Excellent,Mangaf,1,4,163.29
+Refrigerator,LG,Good,Jahra,0,0,238.96
+Washing Machine,Samsung,Excellent,Hawally,0,7,157.12
+Refrigerator,LG,Good,Ahmadi,1,1,245.36
+Dishwasher,Whirlpool,Excellent,Sabah Al Salem,0,6,133.23
+Dishwasher,Panasonic,Good,Riqqa,0,5,121.62
+Refrigerator,LG,Good,Riqqa,0,1,232.4
+Air Conditioner,Samsung,Good,Fahaheel,1,6,201.25
+Dishwasher,Dawlance,Good,Kuwait City,0,3,121.82
+Dishwasher,LG,Good,Hawally,0,2,128.6
+Microwave,Whirlpool,Good,Farwaniya,0,7,59.26
+Washing Machine,Haier,Excellent,Riqqa,0,1,158.07
+Dishwasher,Panasonic,Fair,Mahboula,0,4,115.03
+Washing Machine,Panasonic,Good,Mahboula,1,0,197.72
+Washing Machine,LG,Excellent,Sabah Al Salem,0,7,151.28
+Microwave,Toshiba,Good,Kuwait City,0,0,89.45
+Air Conditioner,Toshiba,Good,Fahaheel,0,9,137.8
+Air Conditioner,Toshiba,Good,Hawally,1,7,171.2
+Microwave,Toshiba,Poor,Hawally,0,2,39.72
+Microwave,Toshiba,Fair,Mangaf,0,9,28.52
+Refrigerator,Whirlpool,Fair,Kuwait City,0,8,163.79
+Air Conditioner,LG,Excellent,Hawally,0,5,205.18
+Washing Machine,Dawlance,Fair,Sabah Al Salem,0,3,129.31
+Refrigerator,Orient,Good,Fahaheel,0,5,173.81
+Dishwasher,Whirlpool,Good,Farwaniya,1,7,119.5
+Washing Machine,Toshiba,Poor,Fahaheel,0,7,94.09
+Air Conditioner,Haier,Excellent,Ahmadi,1,7,167.74
+Microwave,Whirlpool,Excellent,Riqqa,0,2,84.55
+Refrigerator,Whirlpool,Good,Farwaniya,0,0,228.96
+Air Conditioner,Toshiba,Good,Ahmadi,0,3,187.06
+Refrigerator,Orient,Fair,Mangaf,0,1,180.52
+Dishwasher,Orient,Excellent,Kuwait City,0,8,106.24
+Microwave,Whirlpool,Fair,Jahra,1,1,87.53
+Dishwasher,Orient,Excellent,Hawally,0,2,139.47
+Air Conditioner,Orient,Excellent,Riqqa,1,2,202.83
+Dishwasher,Panasonic,Excellent,Riqqa,0,3,153.56
+Refrigerator,Orient,Good,Fahaheel,0,2,189.34
+Dishwasher,Whirlpool,Good,Kuwait City,0,0,150.49
+Dishwasher,Orient,Fair,Mangaf,0,5,71.28
+Microwave,Toshiba,Good,Mahboula,0,0,95.73
+Air Conditioner,Panasonic,Fair,Kuwait City,1,6,161.66
+Washing Machine,Whirlpool,Fair,Hawally,1,9,116.3
+Air Conditioner,Panasonic,Fair,Fahaheel,0,7,138.92
+Dishwasher,Panasonic,Fair,Fintas,1,2,138.31
+Microwave,Haier,Fair,Riqqa,1,7,50.01
+Refrigerator,Whirlpool,Good,Mahboula,0,1,217.38
+Air Conditioner,Haier,Excellent,Farwaniya,1,4,193.38
+Dishwasher,Orient,Good,Kuwait City,0,9,75.98
+Air Conditioner,Whirlpool,Excellent,Kuwait City,1,6,182.04
+Microwave,Orient,Good,Sabah Al Salem,1,9,24.9
+Washing Machine,LG,Excellent,Hawally,0,1,173.76
+Microwave,Samsung,Good,Riqqa,0,2,91.77
+Air Conditioner,Whirlpool,Poor,Kuwait City,0,5,122.76
+Refrigerator,Dawlance,Fair,Kuwait City,0,3,203.21
+Air Conditioner,Toshiba,Excellent,Kuwait City,0,6,163.97
+Microwave,Haier,Excellent,Kuwait City,0,7,39.79
+Microwave,Toshiba,Good,Ahmadi,0,1,87.61
+Microwave,Toshiba,Fair,Fahaheel,1,6,42.37
+Microwave,Whirlpool,Good,Kuwait City,0,1,86.37
+Dishwasher,Orient,Poor,Mangaf,0,6,69.79
+Microwave,Haier,Good,Fahaheel,0,7,36.96
+Microwave,Orient,Good,Jahra,0,6,25.64
+Refrigerator,Samsung,Excellent,Farwaniya,0,1,263.12
+Microwave,Toshiba,Poor,Farwaniya,0,5,22.98
+Dishwasher,Dawlance,Fair,Mahboula,1,7,103.01
+Washing Machine,LG,Good,Riqqa,1,0,208.23
+Washing Machine,Orient,Good,Sabah Al Salem,0,5,102.73
+Microwave,Whirlpool,Excellent,Mahboula,1,1,92.96
+Washing Machine,Panasonic,Good,Mahboula,1,4,162.41
+Refrigerator,Whirlpool,Fair,Sabah Al Salem,0,7,173.69
+Dishwasher,Toshiba,Good,Kuwait City,0,9,83.34
+Refrigerator,Dawlance,Excellent,Kuwait City,0,3,213.2
+Air Conditioner,Samsung,Good,Fahaheel,0,1,213.66
+Dishwasher,Orient,Fair,Farwaniya,0,2,103.39
+Microwave,Panasonic,Fair,Sabah Al Salem,1,4,63.98
+Washing Machine,Samsung,Good,Kuwait City,0,7,125.54
+Microwave,LG,Excellent,Fintas,1,5,91.8
+Refrigerator,Dawlance,Good,Fintas,1,0,219.45
+Microwave,Orient,Good,Kuwait City,0,5,43.19
+Washing Machine,LG,Good,Riqqa,1,9,142.55
+Dishwasher,Toshiba,Fair,Fahaheel,1,6,110.07
+Dishwasher,LG,Good,Farwaniya,1,1,181.53
+Microwave,Dawlance,Fair,Hawally,1,7,35.72
+Refrigerator,Toshiba,Good,Mangaf,0,0,244.34
+Dishwasher,LG,Good,Mahboula,1,1,167.88
+Microwave,LG,Excellent,Riqqa,1,1,114.86
+Dishwasher,Dawlance,Good,Fahaheel,0,8,101.27
+Refrigerator,Whirlpool,Good,Mangaf,0,0,221.64
+Refrigerator,Dawlance,Good,Jahra,0,0,215.75
+Dishwasher,Whirlpool,Poor,Kuwait City,0,3,104.87
+Microwave,Whirlpool,Good,Sabah Al Salem,1,3,77.29
+Microwave,Orient,Excellent,Ahmadi,0,9,34.97
+Washing Machine,Samsung,Excellent,Fahaheel,0,4,166.99
+Washing Machine,Samsung,Excellent,Mahboula,0,9,126.35
+Washing Machine,Orient,Excellent,Salmiya,0,7,153.34
+Dishwasher,Toshiba,Poor,Farwaniya,0,1,94.03
+Microwave,Dawlance,Good,Salmiya,1,9,28.97
+Washing Machine,Toshiba,Good,Jahra,1,1,160.01
+Microwave,Panasonic,Poor,Hawally,0,4,25.94
+Dishwasher,Samsung,Poor,Salmiya,1,7,104.36
+Dishwasher,Panasonic,Good,Fahaheel,1,7,136.14
+Air Conditioner,Samsung,Fair,Sabah Al Salem,0,8,139.57
+Dishwasher,Haier,Excellent,Sabah Al Salem,0,6,123.75
+Refrigerator,LG,Excellent,Jahra,1,1,262.35
+Dishwasher,Dawlance,Poor,Riqqa,1,0,123.2
+Refrigerator,Dawlance,Poor,Salmiya,0,2,178.0
+Refrigerator,Toshiba,Good,Jahra,0,3,222.62
+Air Conditioner,Orient,Excellent,Farwaniya,0,0,206.02
+Washing Machine,Whirlpool,Good,Riqqa,1,3,166.82
+Microwave,Haier,Good,Fintas,0,0,78.95
+Microwave,Haier,Good,Mahboula,0,1,57.72
+Dishwasher,Dawlance,Good,Sabah Al Salem,0,6,97.66
+Refrigerator,Toshiba,Good,Ahmadi,0,2,223.02
+Washing Machine,Whirlpool,Fair,Fintas,1,4,128.18
+Washing Machine,Panasonic,Excellent,Kuwait City,0,5,168.28
+Refrigerator,Panasonic,Fair,Kuwait City,0,1,208.34
+Air Conditioner,Whirlpool,Fair,Jahra,0,1,182.94
+Air Conditioner,Toshiba,Good,Fintas,0,9,153.99
+Washing Machine,Whirlpool,Fair,Kuwait City,0,3,135.93
+Air Conditioner,Samsung,Fair,Sabah Al Salem,0,5,152.27
+Microwave,Orient,Good,Fahaheel,0,1,73.52
+Microwave,Panasonic,Excellent,Fintas,1,7,82.52
+Washing Machine,Samsung,Fair,Ahmadi,0,3,153.77
+Washing Machine,LG,Excellent,Hawally,0,1,195.19
+Washing Machine,Panasonic,Poor,Ahmadi,0,5,110.73
+Refrigerator,Whirlpool,Good,Hawally,0,0,226.68
+Washing Machine,Toshiba,Good,Sabah Al Salem,1,7,145.04
+Refrigerator,Dawlance,Excellent,Riqqa,0,3,232.25
+Refrigerator,Toshiba,Good,Sabah Al Salem,0,1,231.38
+Air Conditioner,Toshiba,Good,Sabah Al Salem,1,9,153.17
+Dishwasher,Orient,Excellent,Jahra,0,2,121.79
+Air Conditioner,LG,Poor,Salmiya,0,7,136.3
+Refrigerator,Haier,Good,Ahmadi,0,0,220.96
+Air Conditioner,Samsung,Excellent,Mahboula,1,3,230.08
+Air Conditioner,Dawlance,Poor,Kuwait City,0,8,116.06
+Air Conditioner,LG,Good,Farwaniya,1,1,218.8
+Microwave,Haier,Fair,Fintas,0,1,68.07
+Dishwasher,Toshiba,Fair,Mahboula,1,6,97.92
+Refrigerator,Toshiba,Good,Ahmadi,0,5,209.55
+Air Conditioner,Panasonic,Good,Fahaheel,0,3,172.76
+Microwave,Samsung,Excellent,Hawally,1,4,105.55
+Washing Machine,Orient,Good,Farwaniya,1,9,96.24
+Washing Machine,Samsung,Good,Fahaheel,0,0,182.03
+Washing Machine,Orient,Good,Fintas,0,4,135.03
+Washing Machine,Samsung,Good,Fahaheel,0,5,132.77
+Air Conditioner,Haier,Fair,Hawally,1,8,144.82
+Dishwasher,Samsung,Fair,Ahmadi,0,4,121.42
+Washing Machine,Samsung,Good,Fintas,0,4,171.77
+Refrigerator,Samsung,Good,Sabah Al Salem,0,7,196.29
+Microwave,LG,Fair,Ahmadi,0,3,57.49
+Refrigerator,Panasonic,Poor,Fahaheel,0,5,175.15
+Dishwasher,Toshiba,Fair,Hawally,0,6,98.2
+Refrigerator,LG,Good,Fahaheel,1,0,252.92
+Air Conditioner,Haier,Excellent,Farwaniya,0,2,199.71
+Air Conditioner,LG,Excellent,Ahmadi,0,0,237.52
+Washing Machine,Samsung,Excellent,Sabah Al Salem,0,8,149.42
+Air Conditioner,Whirlpool,Good,Hawally,1,8,152.72
+Microwave,Panasonic,Excellent,Fahaheel,0,6,58.78
+Dishwasher,Haier,Good,Sabah Al Salem,0,0,126.85
+Microwave,Dawlance,Poor,Riqqa,0,9,15.0
+Dishwasher,LG,Excellent,Hawally,0,4,161.96
+Dishwasher,LG,Fair,Jahra,0,4,117.8
+Microwave,Orient,Good,Hawally,1,4,49.93
+Microwave,Toshiba,Excellent,Jahra,1,8,57.51
+Air Conditioner,Panasonic,Good,Salmiya,0,3,194.25
+Dishwasher,Dawlance,Good,Fintas,0,9,96.12
+Washing Machine,Panasonic,Good,Sabah Al Salem,0,6,140.18
+Air Conditioner,LG,Excellent,Mangaf,0,0,210.26
+Air Conditioner,Dawlance,Good,Mangaf,1,7,161.52
+Dishwasher,LG,Fair,Mangaf,0,4,116.73
+Washing Machine,Toshiba,Good,Mahboula,0,9,117.21
+Washing Machine,LG,Fair,Farwaniya,0,2,154.48
+Washing Machine,LG,Excellent,Mahboula,0,1,194.14
+Dishwasher,Toshiba,Fair,Fintas,1,6,98.51
+Dishwasher,Toshiba,Fair,Mangaf,0,9,80.15
+Washing Machine,Whirlpool,Good,Sabah Al Salem,0,1,164.34
+Refrigerator,Haier,Good,Mangaf,1,6,183.6
+Air Conditioner,Whirlpool,Fair,Mahboula,0,6,138.01
+Dishwasher,Samsung,Good,Sabah Al Salem,0,5,136.94
+Washing Machine,Toshiba,Poor,Kuwait City,1,4,127.57
+Refrigerator,Haier,Good,Mahboula,0,5,185.18
+Refrigerator,Toshiba,Good,Ahmadi,0,1,206.39
+Air Conditioner,LG,Excellent,Sabah Al Salem,0,9,163.97
+Washing Machine,Toshiba,Excellent,Kuwait City,0,7,136.73
+Dishwasher,Dawlance,Excellent,Fintas,0,4,117.74
+Air Conditioner,Whirlpool,Fair,Fahaheel,1,0,193.24
+Air Conditioner,LG,Poor,Farwaniya,0,1,191.73
+Dishwasher,LG,Good,Hawally,1,8,132.48
+Refrigerator,Dawlance,Excellent,Ahmadi,1,5,215.31
+Air Conditioner,Panasonic,Good,Fintas,1,9,175.54
+Refrigerator,Whirlpool,Good,Salmiya,1,3,224.45
+Washing Machine,Toshiba,Good,Hawally,0,2,156.23
+Refrigerator,Samsung,Good,Ahmadi,0,0,239.93
+Dishwasher,Dawlance,Good,Sabah Al Salem,1,4,125.52
+Air Conditioner,Samsung,Fair,Fintas,1,3,180.59
+Refrigerator,Panasonic,Fair,Ahmadi,0,1,201.27
+Microwave,Panasonic,Excellent,Mahboula,0,1,102.34
+Dishwasher,Toshiba,Good,Sabah Al Salem,0,8,95.09
+Air Conditioner,Samsung,Good,Mangaf,0,4,183.58
+Air Conditioner,Dawlance,Fair,Farwaniya,0,6,144.02
+Dishwasher,Haier,Good,Fintas,0,6,109.39
+Dishwasher,Panasonic,Excellent,Mangaf,0,4,136.63
+Dishwasher,Samsung,Fair,Mahboula,0,4,124.13
+Dishwasher,LG,Poor,Farwaniya,0,0,112.32
+Air Conditioner,Orient,Poor,Mahboula,0,1,165.48
+Air Conditioner,Orient,Good,Fahaheel,1,3,176.54
+Refrigerator,Panasonic,Fair,Kuwait City,0,8,175.21
+Washing Machine,LG,Good,Kuwait City,1,9,142.47
+Air Conditioner,Haier,Good,Fahaheel,1,7,154.32
+Washing Machine,Toshiba,Excellent,Mangaf,0,2,166.17
+Washing Machine,Toshiba,Good,Salmiya,0,7,125.39
+Washing Machine,Panasonic,Good,Fahaheel,0,3,161.6
+Microwave,Dawlance,Good,Mahboula,0,5,42.74
+Refrigerator,Whirlpool,Poor,Fintas,1,7,169.86
+Refrigerator,Toshiba,Fair,Kuwait City,0,3,205.49
+Washing Machine,Samsung,Excellent,Mangaf,0,1,182.75
+Microwave,Orient,Fair,Jahra,1,1,63.04
+Microwave,LG,Fair,Fahaheel,0,8,26.64
+Air Conditioner,LG,Good,Ahmadi,0,3,174.27
+Dishwasher,Dawlance,Fair,Kuwait City,0,2,101.3
+Washing Machine,Dawlance,Excellent,Hawally,0,4,158.08
+Air Conditioner,Orient,Fair,Ahmadi,1,8,133.25
+Air Conditioner,Haier,Excellent,Salmiya,0,5,174.31
+Microwave,Panasonic,Good,Fahaheel,0,5,74.49
+Air Conditioner,Toshiba,Excellent,Jahra,0,9,163.99
+Refrigerator,Orient,Excellent,Fintas,1,0,235.16
+Refrigerator,LG,Fair,Mahboula,1,6,194.03
+Microwave,Haier,Good,Sabah Al Salem,0,5,51.85
+Air Conditioner,Samsung,Poor,Sabah Al Salem,1,8,145.89
+Air Conditioner,Haier,Excellent,Mangaf,0,2,206.82
+Microwave,LG,Good,Jahra,0,6,58.8
+Dishwasher,LG,Good,Farwaniya,0,3,147.84
+Dishwasher,Whirlpool,Good,Jahra,0,6,106.95
+Air Conditioner,Dawlance,Poor,Fahaheel,0,1,149.55
+Microwave,Samsung,Good,Salmiya,0,9,46.52
+Dishwasher,Toshiba,Excellent,Salmiya,0,3,147.89
+Washing Machine,LG,Good,Kuwait City,0,8,125.37
+Air Conditioner,Whirlpool,Good,Kuwait City,0,3,174.2
+Air Conditioner,Haier,Good,Mahboula,0,8,144.09
+Air Conditioner,Panasonic,Excellent,Salmiya,0,0,228.5
+Washing Machine,Haier,Fair,Jahra,0,2,146.39
+Refrigerator,Haier,Good,Jahra,0,4,186.64
+Refrigerator,Dawlance,Poor,Mangaf,0,0,165.02
+Washing Machine,Dawlance,Excellent,Ahmadi,0,8,131.13
+Air Conditioner,Panasonic,Poor,Fintas,0,5,149.82
+Air Conditioner,Toshiba,Fair,Fintas,1,9,148.31
+Refrigerator,Samsung,Excellent,Fintas,0,3,230.57
+Microwave,Dawlance,Good,Riqqa,0,3,68.57
+Refrigerator,Orient,Good,Farwaniya,0,6,173.17
+Dishwasher,LG,Excellent,Fahaheel,0,8,128.27
+Dishwasher,Haier,Good,Jahra,0,2,127.96
+Microwave,Samsung,Excellent,Fintas,0,8,60.42
+Washing Machine,Samsung,Excellent,Hawally,0,8,145.69
+Washing Machine,Samsung,Good,Ahmadi,1,9,141.49
+Refrigerator,Orient,Good,Mangaf,0,7,180.23
+Air Conditioner,Haier,Good,Salmiya,1,6,167.03
+Air Conditioner,Whirlpool,Excellent,Fahaheel,0,5,188.53
+Air Conditioner,Dawlance,Fair,Sabah Al Salem,0,9,133.63
+Microwave,Orient,Fair,Mahboula,0,5,46.15
+Air Conditioner,Toshiba,Excellent,Hawally,0,4,174.35
+Air Conditioner,Samsung,Good,Jahra,0,8,163.61
+Refrigerator,LG,Good,Ahmadi,1,6,201.47
+Microwave,LG,Fair,Ahmadi,0,0,93.38
+Dishwasher,Orient,Good,Riqqa,0,5,107.72
+Washing Machine,Toshiba,Good,Jahra,0,1,157.66
+Air Conditioner,Dawlance,Excellent,Riqqa,0,4,188.5
+Washing Machine,Dawlance,Excellent,Jahra,1,8,157.72
+Air Conditioner,Whirlpool,Good,Salmiya,1,8,169.54
+Air Conditioner,Samsung,Good,Hawally,1,9,167.06
+Dishwasher,Dawlance,Excellent,Kuwait City,0,3,136.99
+Refrigerator,LG,Good,Mangaf,0,5,211.37
+Washing Machine,Panasonic,Excellent,Riqqa,0,3,163.09
+Microwave,Orient,Poor,Mangaf,0,3,29.38
+Air Conditioner,Samsung,Excellent,Mangaf,0,2,214.01
+Dishwasher,Haier,Excellent,Jahra,0,3,152.51
+Air Conditioner,Samsung,Excellent,Salmiya,0,1,225.87
+Microwave,Toshiba,Fair,Hawally,0,5,45.77
+Air Conditioner,Panasonic,Good,Salmiya,0,3,181.6
+Refrigerator,Whirlpool,Fair,Sabah Al Salem,0,2,195.58
+Microwave,LG,Good,Fintas,0,6,70.03
+Air Conditioner,Toshiba,Good,Salmiya,1,7,184.45
+Dishwasher,Panasonic,Poor,Kuwait City,0,0,104.92
+Microwave,Panasonic,Fair,Riqqa,1,8,36.63
+Air Conditioner,Haier,Excellent,Fahaheel,1,5,186.16
+Washing Machine,Orient,Poor,Salmiya,0,1,117.65
+Dishwasher,Toshiba,Good,Farwaniya,0,0,149.45
+Washing Machine,Dawlance,Excellent,Hawally,1,0,198.67
+Dishwasher,Toshiba,Good,Fintas,1,8,104.11
+Dishwasher,Haier,Good,Sabah Al Salem,1,3,130.25
+Air Conditioner,Dawlance,Fair,Fintas,0,5,135.83
+Microwave,Toshiba,Excellent,Fahaheel,0,5,65.55
+Washing Machine,LG,Good,Fintas,0,7,134.52
+Washing Machine,Panasonic,Good,Salmiya,0,2,145.26
+Dishwasher,Dawlance,Fair,Ahmadi,1,0,132.53
+Dishwasher,Panasonic,Good,Mahboula,0,8,95.98
+Washing Machine,Orient,Poor,Sabah Al Salem,1,4,113.83
+Washing Machine,Toshiba,Good,Riqqa,0,0,150.7
+Air Conditioner,Haier,Good,Fahaheel,0,0,186.14
+Dishwasher,Toshiba,Poor,Farwaniya,0,1,113.17
+Air Conditioner,Whirlpool,Excellent,Farwaniya,0,2,207.06
+Washing Machine,Samsung,Good,Salmiya,0,6,161.59
+Refrigerator,Toshiba,Good,Mahboula,0,9,164.87
+Washing Machine,Samsung,Fair,Salmiya,1,4,153.05
+Refrigerator,Panasonic,Poor,Fahaheel,1,8,150.42
+Washing Machine,Toshiba,Good,Mahboula,1,0,174.84
+Washing Machine,Toshiba,Excellent,Ahmadi,1,5,162.63
+Dishwasher,Toshiba,Good,Ahmadi,1,1,162.67
+Microwave,Haier,Excellent,Sabah Al Salem,0,7,50.82
+Air Conditioner,Samsung,Good,Hawally,0,4,185.4
+Air Conditioner,Panasonic,Excellent,Kuwait City,1,2,215.4
+Air Conditioner,Haier,Fair,Riqqa,0,0,173.71
+Washing Machine,Whirlpool,Excellent,Fahaheel,0,3,174.12
+Air Conditioner,Samsung,Fair,Jahra,0,7,169.29
+Microwave,Haier,Excellent,Farwaniya,0,5,63.81
+Microwave,LG,Fair,Jahra,0,4,64.89
+Refrigerator,Panasonic,Good,Fintas,0,6,195.01
+Washing Machine,Samsung,Poor,Riqqa,1,3,143.89
+Washing Machine,Panasonic,Excellent,Ahmadi,0,4,182.06
+Dishwasher,Whirlpool,Fair,Mangaf,0,9,61.56
+Refrigerator,Orient,Good,Mahboula,0,4,191.49
+Microwave,Samsung,Good,Fahaheel,1,1,109.95
+Microwave,Dawlance,Good,Kuwait City,1,1,92.81
+Refrigerator,Haier,Fair,Jahra,0,4,196.67
+Washing Machine,Panasonic,Good,Salmiya,0,4,132.49
+Air Conditioner,Whirlpool,Fair,Riqqa,0,4,165.14
+Washing Machine,Orient,Fair,Mahboula,1,0,152.15
+Air Conditioner,Dawlance,Excellent,Ahmadi,0,9,154.23
+Air Conditioner,Whirlpool,Good,Fahaheel,0,8,157.9
+Dishwasher,Whirlpool,Good,Fintas,1,3,132.35
+Dishwasher,Haier,Fair,Sabah Al Salem,0,0,113.92
+Microwave,Toshiba,Excellent,Riqqa,0,6,74.7
+Refrigerator,Orient,Excellent,Ahmadi,1,5,229.92
+Dishwasher,Orient,Excellent,Sabah Al Salem,0,7,111.68
+Washing Machine,Whirlpool,Poor,Salmiya,0,9,76.72
+Microwave,Samsung,Fair,Jahra,1,4,79.85
+Dishwasher,Orient,Excellent,Fintas,0,0,152.81
+Washing Machine,LG,Poor,Farwaniya,0,5,126.56
+Microwave,Haier,Good,Fintas,0,1,77.12
+Washing Machine,Toshiba,Excellent,Fintas,1,1,195.34
+Refrigerator,LG,Good,Fintas,1,2,244.64
+Dishwasher,Toshiba,Good,Kuwait City,0,4,122.45
+Dishwasher,Panasonic,Fair,Salmiya,0,5,109.78
+Refrigerator,LG,Excellent,Ahmadi,0,1,240.2
+Refrigerator,Dawlance,Fair,Jahra,1,5,176.94
+Microwave,Toshiba,Good,Fintas,0,1,83.34
+Refrigerator,Orient,Good,Riqqa,0,0,209.99
+Washing Machine,Toshiba,Good,Fahaheel,0,4,144.12
+Air Conditioner,Samsung,Poor,Fintas,0,0,181.48
+Refrigerator,Dawlance,Good,Hawally,1,2,209.58
+Washing Machine,Whirlpool,Good,Fintas,0,0,164.48
+Washing Machine,Dawlance,Good,Fahaheel,0,6,137.85
+Dishwasher,Panasonic,Excellent,Jahra,1,0,180.18
+Washing Machine,Panasonic,Good,Salmiya,0,9,117.26
+Washing Machine,Panasonic,Good,Mangaf,0,8,114.03
+Microwave,Dawlance,Poor,Mangaf,1,1,53.51
+Dishwasher,Panasonic,Good,Hawally,0,8,105.14
+Washing Machine,Dawlance,Good,Hawally,0,7,121.04
+Air Conditioner,LG,Good,Ahmadi,0,4,181.25
+Washing Machine,Dawlance,Poor,Riqqa,0,8,95.72
+Washing Machine,Whirlpool,Excellent,Jahra,0,4,147.34
+Refrigerator,Whirlpool,Good,Mahboula,0,2,219.31
+Washing Machine,Dawlance,Good,Fahaheel,1,8,122.18
+Washing Machine,Dawlance,Good,Kuwait City,0,9,108.38
+Air Conditioner,Haier,Good,Mahboula,1,8,151.17
+Dishwasher,Samsung,Excellent,Mahboula,0,8,122.41
+Air Conditioner,Orient,Good,Jahra,0,6,151.85
+Microwave,Orient,Excellent,Sabah Al Salem,0,5,66.15
+Microwave,Dawlance,Excellent,Sabah Al Salem,1,1,112.37
+Air Conditioner,LG,Good,Fahaheel,1,4,195.14
+Air Conditioner,LG,Good,Fintas,1,0,214.7
+Refrigerator,Samsung,Good,Mahboula,0,2,223.22
+Microwave,Panasonic,Excellent,Fahaheel,1,0,122.11
+Air Conditioner,Samsung,Excellent,Sabah Al Salem,0,9,169.11
+Washing Machine,LG,Poor,Farwaniya,0,7,93.14
+Dishwasher,LG,Good,Jahra,0,5,129.48
+Refrigerator,Whirlpool,Good,Salmiya,0,7,186.58
+Air Conditioner,Dawlance,Excellent,Farwaniya,1,7,175.97
+Microwave,LG,Good,Fintas,0,8,43.42
+Washing Machine,Haier,Good,Hawally,1,7,140.54
+Dishwasher,LG,Good,Farwaniya,0,0,169.89
+Air Conditioner,Orient,Excellent,Ahmadi,0,4,174.24
+Refrigerator,Dawlance,Good,Fintas,0,4,188.43
+Refrigerator,Toshiba,Good,Riqqa,0,8,171.33
+Dishwasher,Haier,Excellent,Mahboula,1,5,142.95
+Microwave,Samsung,Poor,Mangaf,0,3,50.55
+Air Conditioner,Panasonic,Poor,Salmiya,1,9,137.54
+Air Conditioner,Panasonic,Good,Riqqa,0,0,195.26
+Refrigerator,Samsung,Fair,Farwaniya,0,9,174.9
+Dishwasher,LG,Excellent,Ahmadi,1,8,142.26
+Dishwasher,Dawlance,Good,Riqqa,0,4,126.94
+Microwave,Panasonic,Good,Mangaf,1,7,60.83
+Dishwasher,Panasonic,Excellent,Mangaf,0,1,162.27
+Washing Machine,Orient,Fair,Mangaf,0,8,81.4
+Microwave,Dawlance,Fair,Salmiya,0,2,45.78
+Air Conditioner,Haier,Good,Kuwait City,0,7,157.71
+Air Conditioner,Toshiba,Excellent,Jahra,1,8,171.8
+Dishwasher,Samsung,Excellent,Mangaf,0,4,152.07
+Dishwasher,Dawlance,Fair,Salmiya,0,3,114.74
+Dishwasher,Panasonic,Good,Hawally,1,4,144.56
+Washing Machine,Orient,Excellent,Sabah Al Salem,0,5,128.99
+Dishwasher,Whirlpool,Good,Kuwait City,0,6,105.29
+Refrigerator,LG,Poor,Hawally,1,8,178.2
+Washing Machine,Samsung,Good,Farwaniya,0,4,144.84
+Dishwasher,Whirlpool,Excellent,Sabah Al Salem,0,0,168.66
+Microwave,Whirlpool,Excellent,Mangaf,0,8,59.96
+Washing Machine,LG,Excellent,Sabah Al Salem,0,5,155.46
+Washing Machine,Toshiba,Excellent,Mangaf,0,0,186.63
+Microwave,LG,Fair,Farwaniya,0,2,67.81
+Refrigerator,Samsung,Excellent,Mangaf,0,2,245.4
+Washing Machine,Samsung,Excellent,Salmiya,0,4,176.59
+Dishwasher,Orient,Excellent,Salmiya,1,9,111.37
+Washing Machine,Dawlance,Good,Fintas,0,7,116.05
+Microwave,LG,Excellent,Salmiya,0,3,105.82

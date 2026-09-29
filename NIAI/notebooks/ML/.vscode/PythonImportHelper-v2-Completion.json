@@ -1,0 +1,445 @@
+[
+    {
+        "label": "Counter",
+        "importPath": "collections",
+        "description": "collections",
+        "isExtraImport": true,
+        "detail": "collections",
+        "documentation": {}
+    },
+    {
+        "label": "matplotlib",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "matplotlib",
+        "description": "matplotlib",
+        "detail": "matplotlib",
+        "documentation": {}
+    },
+    {
+        "label": "matplotlib.pyplot",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "matplotlib.pyplot",
+        "description": "matplotlib.pyplot",
+        "detail": "matplotlib.pyplot",
+        "documentation": {}
+    },
+    {
+        "label": "numpy",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "numpy",
+        "description": "numpy",
+        "detail": "numpy",
+        "documentation": {}
+    },
+    {
+        "label": "pandas",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "pandas",
+        "description": "pandas",
+        "detail": "pandas",
+        "documentation": {}
+    },
+    {
+        "label": "classification_report",
+        "importPath": "sklearn.metrics",
+        "description": "sklearn.metrics",
+        "isExtraImport": true,
+        "detail": "sklearn.metrics",
+        "documentation": {}
+    },
+    {
+        "label": "confusion_matrix",
+        "importPath": "sklearn.metrics",
+        "description": "sklearn.metrics",
+        "isExtraImport": true,
+        "detail": "sklearn.metrics",
+        "documentation": {}
+    },
+    {
+        "label": "accuracy_score",
+        "importPath": "sklearn.metrics",
+        "description": "sklearn.metrics",
+        "isExtraImport": true,
+        "detail": "sklearn.metrics",
+        "documentation": {}
+    },
+    {
+        "label": "accuracy_score",
+        "importPath": "sklearn.metrics",
+        "description": "sklearn.metrics",
+        "isExtraImport": true,
+        "detail": "sklearn.metrics",
+        "documentation": {}
+    },
+    {
+        "label": "confusion_matrix",
+        "importPath": "sklearn.metrics",
+        "description": "sklearn.metrics",
+        "isExtraImport": true,
+        "detail": "sklearn.metrics",
+        "documentation": {}
+    },
+    {
+        "label": "GridSearchCV",
+        "importPath": "sklearn.model_selection",
+        "description": "sklearn.model_selection",
+        "isExtraImport": true,
+        "detail": "sklearn.model_selection",
+        "documentation": {}
+    },
+    {
+        "label": "cross_val_score",
+        "importPath": "sklearn.model_selection",
+        "description": "sklearn.model_selection",
+        "isExtraImport": true,
+        "detail": "sklearn.model_selection",
+        "documentation": {}
+    },
+    {
+        "label": "train_test_split",
+        "importPath": "sklearn.model_selection",
+        "description": "sklearn.model_selection",
+        "isExtraImport": true,
+        "detail": "sklearn.model_selection",
+        "documentation": {}
+    },
+    {
+        "label": "train_test_split",
+        "importPath": "sklearn.model_selection",
+        "description": "sklearn.model_selection",
+        "isExtraImport": true,
+        "detail": "sklearn.model_selection",
+        "documentation": {}
+    },
+    {
+        "label": "KNeighborsClassifier",
+        "importPath": "sklearn.neighbors",
+        "description": "sklearn.neighbors",
+        "isExtraImport": true,
+        "detail": "sklearn.neighbors",
+        "documentation": {}
+    },
+    {
+        "label": "Pipeline",
+        "importPath": "sklearn.pipeline",
+        "description": "sklearn.pipeline",
+        "isExtraImport": true,
+        "detail": "sklearn.pipeline",
+        "documentation": {}
+    },
+    {
+        "label": "Pipeline",
+        "importPath": "sklearn.pipeline",
+        "description": "sklearn.pipeline",
+        "isExtraImport": true,
+        "detail": "sklearn.pipeline",
+        "documentation": {}
+    },
+    {
+        "label": "StandardScaler",
+        "importPath": "sklearn.preprocessing",
+        "description": "sklearn.preprocessing",
+        "isExtraImport": true,
+        "detail": "sklearn.preprocessing",
+        "documentation": {}
+    },
+    {
+        "label": "StandardScaler",
+        "importPath": "sklearn.preprocessing",
+        "description": "sklearn.preprocessing",
+        "isExtraImport": true,
+        "detail": "sklearn.preprocessing",
+        "documentation": {}
+    },
+    {
+        "label": "LogisticRegression",
+        "importPath": "sklearn.linear_model",
+        "description": "sklearn.linear_model",
+        "isExtraImport": true,
+        "detail": "sklearn.linear_model",
+        "documentation": {}
+    },
+    {
+        "label": "KNNScratch",
+        "kind": 6,
+        "importPath": "knn_demo",
+        "description": "knn_demo",
+        "peekOfCode": "class KNNScratch:\n    def __init__(self, k=5, metric=\"euclidean\", weighted=False):\n        self.k, self.metric, self.weighted = k, metric, weighted\n    def fit(self, X, y):                      # KNN \"training\" = just memorise the data\n        self.X = np.asarray(X, dtype=float)\n        self.y = np.asarray(y)\n        return self\n    def _distances(self, x):\n        diff = self.X - x                     # difference to EVERY training point\n        if self.metric == \"euclidean\":",
+        "detail": "knn_demo",
+        "documentation": {}
+    },
+    {
+        "label": "make_dataset",
+        "kind": 2,
+        "importPath": "knn_demo",
+        "description": "knn_demo",
+        "peekOfCode": "def make_dataset(n_per_class=50, seed=7):\n    rng = np.random.default_rng(seed)\n    specs = {\n        #          weight (mean, sd)  diameter_cm      sweetness (1-10)\n        \"Apple\":  ((170, 25),         (7.0, 0.4),      (7.0, 0.7)),\n        \"Orange\": ((175, 25),         (8.0, 0.4),      (5.0, 0.7)),\n        \"Mango\":  ((300, 30),         (9.5, 0.6),      (8.5, 0.8)),\n    }\n    rows = []\n    for label, (w, d, s) in specs.items():",
+        "detail": "knn_demo",
+        "documentation": {}
+    },
+    {
+        "label": "df",
+        "kind": 5,
+        "importPath": "knn_demo",
+        "description": "knn_demo",
+        "peekOfCode": "df = make_dataset()\ndf.to_csv(\"fruits.csv\", index=False)\nprint(df.head(), \"\\n\")\nprint(df.groupby(\"fruit\").mean().round(2), \"\\n\")\nFEATURES = [\"weight_g\", \"diameter_cm\", \"sweetness\"]\nX_train, X_test, y_train, y_test = train_test_split(\n    df[FEATURES], df[\"fruit\"], test_size=0.25, random_state=0, stratify=df[\"fruit\"]\n)\n# ------------------------------------------------------------------\n# 2. KNN FROM SCRATCH",
+        "detail": "knn_demo",
+        "documentation": {}
+    },
+    {
+        "label": "FEATURES",
+        "kind": 5,
+        "importPath": "knn_demo",
+        "description": "knn_demo",
+        "peekOfCode": "FEATURES = [\"weight_g\", \"diameter_cm\", \"sweetness\"]\nX_train, X_test, y_train, y_test = train_test_split(\n    df[FEATURES], df[\"fruit\"], test_size=0.25, random_state=0, stratify=df[\"fruit\"]\n)\n# ------------------------------------------------------------------\n# 2. KNN FROM SCRATCH\n# ------------------------------------------------------------------\nclass KNNScratch:\n    def __init__(self, k=5, metric=\"euclidean\", weighted=False):\n        self.k, self.metric, self.weighted = k, metric, weighted",
+        "detail": "knn_demo",
+        "documentation": {}
+    },
+    {
+        "label": "scaler",
+        "kind": 5,
+        "importPath": "knn_demo",
+        "description": "knn_demo",
+        "peekOfCode": "scaler = StandardScaler().fit(X_train)        # scale using TRAIN stats only\nXtr_s, Xte_s = scaler.transform(X_train), scaler.transform(X_test)\nprint(\"=== KNN from scratch (k=5, scaled) ===\")\nknn = KNNScratch(k=5).fit(Xtr_s, y_train)\npred = knn.predict(Xte_s)\nprint(\"Test accuracy:\", accuracy_score(y_test, pred), \"\\n\")\nprint(\"Explaining one prediction (a 165 g, 7.1 cm, sweetness 7.2 fruit):\")\nquery = scaler.transform(pd.DataFrame([[165, 7.1, 7.2]], columns=FEATURES))[0]\nknn.explain(query)\nprint()",
+        "detail": "knn_demo",
+        "documentation": {}
+    },
+    {
+        "label": "knn",
+        "kind": 5,
+        "importPath": "knn_demo",
+        "description": "knn_demo",
+        "peekOfCode": "knn = KNNScratch(k=5).fit(Xtr_s, y_train)\npred = knn.predict(Xte_s)\nprint(\"Test accuracy:\", accuracy_score(y_test, pred), \"\\n\")\nprint(\"Explaining one prediction (a 165 g, 7.1 cm, sweetness 7.2 fruit):\")\nquery = scaler.transform(pd.DataFrame([[165, 7.1, 7.2]], columns=FEATURES))[0]\nknn.explain(query)\nprint()\n# ------------------------------------------------------------------\n# 3. SKLEARN PIPELINE\n# ------------------------------------------------------------------",
+        "detail": "knn_demo",
+        "documentation": {}
+    },
+    {
+        "label": "pred",
+        "kind": 5,
+        "importPath": "knn_demo",
+        "description": "knn_demo",
+        "peekOfCode": "pred = knn.predict(Xte_s)\nprint(\"Test accuracy:\", accuracy_score(y_test, pred), \"\\n\")\nprint(\"Explaining one prediction (a 165 g, 7.1 cm, sweetness 7.2 fruit):\")\nquery = scaler.transform(pd.DataFrame([[165, 7.1, 7.2]], columns=FEATURES))[0]\nknn.explain(query)\nprint()\n# ------------------------------------------------------------------\n# 3. SKLEARN PIPELINE\n# ------------------------------------------------------------------\npipe = Pipeline([(\"scaler\", StandardScaler()),",
+        "detail": "knn_demo",
+        "documentation": {}
+    },
+    {
+        "label": "query",
+        "kind": 5,
+        "importPath": "knn_demo",
+        "description": "knn_demo",
+        "peekOfCode": "query = scaler.transform(pd.DataFrame([[165, 7.1, 7.2]], columns=FEATURES))[0]\nknn.explain(query)\nprint()\n# ------------------------------------------------------------------\n# 3. SKLEARN PIPELINE\n# ------------------------------------------------------------------\npipe = Pipeline([(\"scaler\", StandardScaler()),\n                 (\"knn\", KNeighborsClassifier(n_neighbors=5))])\npipe.fit(X_train, y_train)\npred_sk = pipe.predict(X_test)",
+        "detail": "knn_demo",
+        "documentation": {}
+    },
+    {
+        "label": "pipe",
+        "kind": 5,
+        "importPath": "knn_demo",
+        "description": "knn_demo",
+        "peekOfCode": "pipe = Pipeline([(\"scaler\", StandardScaler()),\n                 (\"knn\", KNeighborsClassifier(n_neighbors=5))])\npipe.fit(X_train, y_train)\npred_sk = pipe.predict(X_test)\nprint(\"=== sklearn pipeline ===\")\nprint(\"Test accuracy:\", accuracy_score(y_test, pred_sk))\nprint(\"Confusion matrix (rows=true, cols=pred):\\n\",\n      confusion_matrix(y_test, pred_sk, labels=[\"Apple\", \"Mango\", \"Orange\"]))\nprint(classification_report(y_test, pred_sk))\n# ------------------------------------------------------------------",
+        "detail": "knn_demo",
+        "documentation": {}
+    },
+    {
+        "label": "pred_sk",
+        "kind": 5,
+        "importPath": "knn_demo",
+        "description": "knn_demo",
+        "peekOfCode": "pred_sk = pipe.predict(X_test)\nprint(\"=== sklearn pipeline ===\")\nprint(\"Test accuracy:\", accuracy_score(y_test, pred_sk))\nprint(\"Confusion matrix (rows=true, cols=pred):\\n\",\n      confusion_matrix(y_test, pred_sk, labels=[\"Apple\", \"Mango\", \"Orange\"]))\nprint(classification_report(y_test, pred_sk))\n# ------------------------------------------------------------------\n# 4. WHY SCALING MATTERS\n# ------------------------------------------------------------------\nraw = KNeighborsClassifier(n_neighbors=5).fit(X_train, y_train)",
+        "detail": "knn_demo",
+        "documentation": {}
+    },
+    {
+        "label": "raw",
+        "kind": 5,
+        "importPath": "knn_demo",
+        "description": "knn_demo",
+        "peekOfCode": "raw = KNeighborsClassifier(n_neighbors=5).fit(X_train, y_train)\nprint(\"=== Scaling effect (5-fold CV accuracy, k=5) ===\")\ncv_raw = cross_val_score(KNeighborsClassifier(5), df[FEATURES], df[\"fruit\"], cv=5).mean()\ncv_scaled = cross_val_score(pipe, df[FEATURES], df[\"fruit\"], cv=5).mean()\nprint(f\"Without scaling: {cv_raw:.3f}\")\nprint(f\"With scaling   : {cv_scaled:.3f}\\n\")\n# ------------------------------------------------------------------\n# 5. CHOOSING k WITH CROSS-VALIDATION\n# ------------------------------------------------------------------\nks = list(range(1, 31))",
+        "detail": "knn_demo",
+        "documentation": {}
+    },
+    {
+        "label": "cv_raw",
+        "kind": 5,
+        "importPath": "knn_demo",
+        "description": "knn_demo",
+        "peekOfCode": "cv_raw = cross_val_score(KNeighborsClassifier(5), df[FEATURES], df[\"fruit\"], cv=5).mean()\ncv_scaled = cross_val_score(pipe, df[FEATURES], df[\"fruit\"], cv=5).mean()\nprint(f\"Without scaling: {cv_raw:.3f}\")\nprint(f\"With scaling   : {cv_scaled:.3f}\\n\")\n# ------------------------------------------------------------------\n# 5. CHOOSING k WITH CROSS-VALIDATION\n# ------------------------------------------------------------------\nks = list(range(1, 31))\nscores = []\nfor k in ks:",
+        "detail": "knn_demo",
+        "documentation": {}
+    },
+    {
+        "label": "cv_scaled",
+        "kind": 5,
+        "importPath": "knn_demo",
+        "description": "knn_demo",
+        "peekOfCode": "cv_scaled = cross_val_score(pipe, df[FEATURES], df[\"fruit\"], cv=5).mean()\nprint(f\"Without scaling: {cv_raw:.3f}\")\nprint(f\"With scaling   : {cv_scaled:.3f}\\n\")\n# ------------------------------------------------------------------\n# 5. CHOOSING k WITH CROSS-VALIDATION\n# ------------------------------------------------------------------\nks = list(range(1, 31))\nscores = []\nfor k in ks:\n    p = Pipeline([(\"scaler\", StandardScaler()),",
+        "detail": "knn_demo",
+        "documentation": {}
+    },
+    {
+        "label": "ks",
+        "kind": 5,
+        "importPath": "knn_demo",
+        "description": "knn_demo",
+        "peekOfCode": "ks = list(range(1, 31))\nscores = []\nfor k in ks:\n    p = Pipeline([(\"scaler\", StandardScaler()),\n                  (\"knn\", KNeighborsClassifier(n_neighbors=k))])\n    scores.append(cross_val_score(p, df[FEATURES], df[\"fruit\"], cv=5).mean())\nbest_k = ks[int(np.argmax(scores))]\nprint(\"=== Choosing k ===\")\nprint(\"k=1 :\", round(scores[0], 3), \"| k=5 :\", round(scores[4], 3),\n      \"| k=15:\", round(scores[14], 3), \"| k=30:\", round(scores[29], 3))",
+        "detail": "knn_demo",
+        "documentation": {}
+    },
+    {
+        "label": "scores",
+        "kind": 5,
+        "importPath": "knn_demo",
+        "description": "knn_demo",
+        "peekOfCode": "scores = []\nfor k in ks:\n    p = Pipeline([(\"scaler\", StandardScaler()),\n                  (\"knn\", KNeighborsClassifier(n_neighbors=k))])\n    scores.append(cross_val_score(p, df[FEATURES], df[\"fruit\"], cv=5).mean())\nbest_k = ks[int(np.argmax(scores))]\nprint(\"=== Choosing k ===\")\nprint(\"k=1 :\", round(scores[0], 3), \"| k=5 :\", round(scores[4], 3),\n      \"| k=15:\", round(scores[14], 3), \"| k=30:\", round(scores[29], 3))\nprint(\"Best k:\", best_k, \"with CV accuracy\", round(max(scores), 3), \"\\n\")",
+        "detail": "knn_demo",
+        "documentation": {}
+    },
+    {
+        "label": "best_k",
+        "kind": 5,
+        "importPath": "knn_demo",
+        "description": "knn_demo",
+        "peekOfCode": "best_k = ks[int(np.argmax(scores))]\nprint(\"=== Choosing k ===\")\nprint(\"k=1 :\", round(scores[0], 3), \"| k=5 :\", round(scores[4], 3),\n      \"| k=15:\", round(scores[14], 3), \"| k=30:\", round(scores[29], 3))\nprint(\"Best k:\", best_k, \"with CV accuracy\", round(max(scores), 3), \"\\n\")\nplt.figure(figsize=(7, 4))\nplt.plot(ks, scores, marker=\"o\")\nplt.axvline(best_k, color=\"red\", linestyle=\"--\", label=f\"best k = {best_k}\")\nplt.xlabel(\"k (number of neighbours)\")\nplt.ylabel(\"5-fold CV accuracy\")",
+        "detail": "knn_demo",
+        "documentation": {}
+    },
+    {
+        "label": "grid",
+        "kind": 5,
+        "importPath": "knn_demo",
+        "description": "knn_demo",
+        "peekOfCode": "grid = GridSearchCV(\n    Pipeline([(\"scaler\", StandardScaler()), (\"knn\", KNeighborsClassifier())]),\n    param_grid={\n        \"knn__n_neighbors\": [1, 3, 5, 7, 9, 11, 15, 21],\n        \"knn__weights\": [\"uniform\", \"distance\"],\n        \"knn__p\": [1, 2],                     # 1 = Manhattan, 2 = Euclidean\n    },\n    cv=5,\n)\ngrid.fit(X_train, y_train)",
+        "detail": "knn_demo",
+        "documentation": {}
+    },
+    {
+        "label": "make_dataset",
+        "kind": 2,
+        "importPath": "logistic_regression_model_demo",
+        "description": "logistic_regression_model_demo",
+        "peekOfCode": "def make_dataset(n=200, seed=42):\n    rng = np.random.default_rng(seed)\n    study = rng.uniform(0, 10, n)          # hours studied\n    sleep = rng.uniform(3, 9, n)           # hours slept\n    # hidden \"true\" rule: more study & more sleep -> higher pass chance\n    z = 1.2 * study + 0.5 * sleep - 8.0\n    p = 1 / (1 + np.exp(-z))\n    passed = (rng.uniform(size=n) < p).astype(int)\n    return pd.DataFrame({\"study_hours\": study, \"sleep_hours\": sleep, \"passed\": passed})\ndf = make_dataset()",
+        "detail": "logistic_regression_model_demo",
+        "documentation": {}
+    },
+    {
+        "label": "sigmoid",
+        "kind": 2,
+        "importPath": "logistic_regression_model_demo",
+        "description": "logistic_regression_model_demo",
+        "peekOfCode": "def sigmoid(z):\n    return 1 / (1 + np.exp(-z))\ndef log_loss(y, p, eps=1e-12):\n    p = np.clip(p, eps, 1 - eps)\n    return -np.mean(y * np.log(p) + (1 - y) * np.log(1 - p))\ndef train_logreg(X, y, lr=0.1, epochs=1000, verbose=True):\n    n, d = X.shape\n    w = np.zeros(d)     # start with zero weights\n    b = 0.0\n    for epoch in range(epochs):",
+        "detail": "logistic_regression_model_demo",
+        "documentation": {}
+    },
+    {
+        "label": "log_loss",
+        "kind": 2,
+        "importPath": "logistic_regression_model_demo",
+        "description": "logistic_regression_model_demo",
+        "peekOfCode": "def log_loss(y, p, eps=1e-12):\n    p = np.clip(p, eps, 1 - eps)\n    return -np.mean(y * np.log(p) + (1 - y) * np.log(1 - p))\ndef train_logreg(X, y, lr=0.1, epochs=1000, verbose=True):\n    n, d = X.shape\n    w = np.zeros(d)     # start with zero weights\n    b = 0.0\n    for epoch in range(epochs):\n        z = X @ w + b               # 1) linear score\n        p = sigmoid(z)              # 2) probability",
+        "detail": "logistic_regression_model_demo",
+        "documentation": {}
+    },
+    {
+        "label": "train_logreg",
+        "kind": 2,
+        "importPath": "logistic_regression_model_demo",
+        "description": "logistic_regression_model_demo",
+        "peekOfCode": "def train_logreg(X, y, lr=0.1, epochs=1000, verbose=True):\n    n, d = X.shape\n    w = np.zeros(d)     # start with zero weights\n    b = 0.0\n    for epoch in range(epochs):\n        z = X @ w + b               # 1) linear score\n        p = sigmoid(z)              # 2) probability\n        loss = log_loss(y, p)       # 3) how wrong are we?\n        dw = X.T @ (p - y) / n      # 4) gradient wrt weights\n        db = np.mean(p - y)         #    gradient wrt bias",
+        "detail": "logistic_regression_model_demo",
+        "documentation": {}
+    },
+    {
+        "label": "df",
+        "kind": 5,
+        "importPath": "logistic_regression_model_demo",
+        "description": "logistic_regression_model_demo",
+        "peekOfCode": "df = make_dataset()\ndf.to_csv(\"students.csv\", index=False)\nprint(df.head(), \"\\n\")\nprint(\"Class balance:\\n\", df[\"passed\"].value_counts(), \"\\n\")\n# ------------------------------------------------------------------\n# 2. DATA PIPELINE (sklearn)\n# ------------------------------------------------------------------\nX = df[[\"study_hours\", \"sleep_hours\"]]\ny = df[\"passed\"]\nX_train, X_test, y_train, y_test = train_test_split(",
+        "detail": "logistic_regression_model_demo",
+        "documentation": {}
+    },
+    {
+        "label": "X",
+        "kind": 5,
+        "importPath": "logistic_regression_model_demo",
+        "description": "logistic_regression_model_demo",
+        "peekOfCode": "X = df[[\"study_hours\", \"sleep_hours\"]]\ny = df[\"passed\"]\nX_train, X_test, y_train, y_test = train_test_split(\n    X, y, test_size=0.25, random_state=0, stratify=y\n)\npipe = Pipeline([\n    (\"scaler\", StandardScaler()),              # mean 0, std 1\n    (\"model\", LogisticRegression()),\n])\npipe.fit(X_train, y_train)",
+        "detail": "logistic_regression_model_demo",
+        "documentation": {}
+    },
+    {
+        "label": "y",
+        "kind": 5,
+        "importPath": "logistic_regression_model_demo",
+        "description": "logistic_regression_model_demo",
+        "peekOfCode": "y = df[\"passed\"]\nX_train, X_test, y_train, y_test = train_test_split(\n    X, y, test_size=0.25, random_state=0, stratify=y\n)\npipe = Pipeline([\n    (\"scaler\", StandardScaler()),              # mean 0, std 1\n    (\"model\", LogisticRegression()),\n])\npipe.fit(X_train, y_train)\npred = pipe.predict(X_test)",
+        "detail": "logistic_regression_model_demo",
+        "documentation": {}
+    },
+    {
+        "label": "pipe",
+        "kind": 5,
+        "importPath": "logistic_regression_model_demo",
+        "description": "logistic_regression_model_demo",
+        "peekOfCode": "pipe = Pipeline([\n    (\"scaler\", StandardScaler()),              # mean 0, std 1\n    (\"model\", LogisticRegression()),\n])\npipe.fit(X_train, y_train)\npred = pipe.predict(X_test)\nprint(\"=== sklearn pipeline ===\")\nprint(\"Test accuracy:\", accuracy_score(y_test, pred))\nprint(\"Confusion matrix:\\n\", confusion_matrix(y_test, pred))\nprint(\"Weights (scaled space):\", pipe[\"model\"].coef_[0])",
+        "detail": "logistic_regression_model_demo",
+        "documentation": {}
+    },
+    {
+        "label": "pred",
+        "kind": 5,
+        "importPath": "logistic_regression_model_demo",
+        "description": "logistic_regression_model_demo",
+        "peekOfCode": "pred = pipe.predict(X_test)\nprint(\"=== sklearn pipeline ===\")\nprint(\"Test accuracy:\", accuracy_score(y_test, pred))\nprint(\"Confusion matrix:\\n\", confusion_matrix(y_test, pred))\nprint(\"Weights (scaled space):\", pipe[\"model\"].coef_[0])\nprint(\"Bias:\", pipe[\"model\"].intercept_[0], \"\\n\")\n# ------------------------------------------------------------------\n# 3. FROM SCRATCH: how weights are found\n# ------------------------------------------------------------------\ndef sigmoid(z):",
+        "detail": "logistic_regression_model_demo",
+        "documentation": {}
+    },
+    {
+        "label": "scaler",
+        "kind": 5,
+        "importPath": "logistic_regression_model_demo",
+        "description": "logistic_regression_model_demo",
+        "peekOfCode": "scaler = StandardScaler().fit(X_train)\nXtr = scaler.transform(X_train)\nXte = scaler.transform(X_test)\nprint(\"=== from scratch (gradient descent) ===\")\nw, b = train_logreg(Xtr, y_train.values)\npred_scratch = (sigmoid(Xte @ w + b) >= 0.5).astype(int)\nprint(\"\\nMy weights :\", w, \" bias:\", b)\nprint(\"sklearn    :\", pipe[\"model\"].coef_[0], \" bias:\", pipe[\"model\"].intercept_[0])\nprint(\"Test accuracy (scratch):\", accuracy_score(y_test, pred_scratch))\n# NOTE: sklearn adds L2 regularization (C=1.0) by default, so its weights",
+        "detail": "logistic_regression_model_demo",
+        "documentation": {}
+    },
+    {
+        "label": "Xtr",
+        "kind": 5,
+        "importPath": "logistic_regression_model_demo",
+        "description": "logistic_regression_model_demo",
+        "peekOfCode": "Xtr = scaler.transform(X_train)\nXte = scaler.transform(X_test)\nprint(\"=== from scratch (gradient descent) ===\")\nw, b = train_logreg(Xtr, y_train.values)\npred_scratch = (sigmoid(Xte @ w + b) >= 0.5).astype(int)\nprint(\"\\nMy weights :\", w, \" bias:\", b)\nprint(\"sklearn    :\", pipe[\"model\"].coef_[0], \" bias:\", pipe[\"model\"].intercept_[0])\nprint(\"Test accuracy (scratch):\", accuracy_score(y_test, pred_scratch))\n# NOTE: sklearn adds L2 regularization (C=1.0) by default, so its weights\n# come out slightly smaller than plain gradient descent. Same idea otherwise.",
+        "detail": "logistic_regression_model_demo",
+        "documentation": {}
+    },
+    {
+        "label": "Xte",
+        "kind": 5,
+        "importPath": "logistic_regression_model_demo",
+        "description": "logistic_regression_model_demo",
+        "peekOfCode": "Xte = scaler.transform(X_test)\nprint(\"=== from scratch (gradient descent) ===\")\nw, b = train_logreg(Xtr, y_train.values)\npred_scratch = (sigmoid(Xte @ w + b) >= 0.5).astype(int)\nprint(\"\\nMy weights :\", w, \" bias:\", b)\nprint(\"sklearn    :\", pipe[\"model\"].coef_[0], \" bias:\", pipe[\"model\"].intercept_[0])\nprint(\"Test accuracy (scratch):\", accuracy_score(y_test, pred_scratch))\n# NOTE: sklearn adds L2 regularization (C=1.0) by default, so its weights\n# come out slightly smaller than plain gradient descent. Same idea otherwise.\n# Predict for a new student",
+        "detail": "logistic_regression_model_demo",
+        "documentation": {}
+    },
+    {
+        "label": "pred_scratch",
+        "kind": 5,
+        "importPath": "logistic_regression_model_demo",
+        "description": "logistic_regression_model_demo",
+        "peekOfCode": "pred_scratch = (sigmoid(Xte @ w + b) >= 0.5).astype(int)\nprint(\"\\nMy weights :\", w, \" bias:\", b)\nprint(\"sklearn    :\", pipe[\"model\"].coef_[0], \" bias:\", pipe[\"model\"].intercept_[0])\nprint(\"Test accuracy (scratch):\", accuracy_score(y_test, pred_scratch))\n# NOTE: sklearn adds L2 regularization (C=1.0) by default, so its weights\n# come out slightly smaller than plain gradient descent. Same idea otherwise.\n# Predict for a new student\nnew = pd.DataFrame({\"study_hours\": [6.0], \"sleep_hours\": [7.0]})\nprint(\"\\nNew student pass probability:\", pipe.predict_proba(new)[0, 1])",
+        "detail": "logistic_regression_model_demo",
+        "documentation": {}
+    },
+    {
+        "label": "new",
+        "kind": 5,
+        "importPath": "logistic_regression_model_demo",
+        "description": "logistic_regression_model_demo",
+        "peekOfCode": "new = pd.DataFrame({\"study_hours\": [6.0], \"sleep_hours\": [7.0]})\nprint(\"\\nNew student pass probability:\", pipe.predict_proba(new)[0, 1])",
+        "detail": "logistic_regression_model_demo",
+        "documentation": {}
+    }
+]
